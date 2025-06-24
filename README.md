@@ -46,7 +46,7 @@ This is a C++ based calculator that allows users to choose operations like addit
 1. Compile the code using a C++ compiler:
 2. Enter the numbers and select the desired operation when prompted.
 
-## 💻 Language Used:
+## Language Used:
 - C++
 
 ##  Developed By:
